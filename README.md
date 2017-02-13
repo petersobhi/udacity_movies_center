@@ -12,5 +12,5 @@ you can run `python --version` in your bash to check if it is installed
 
 # Add your own
 you can simply add your own movies by editing [movies_center.py](https://github.com/petersobhi/udacity_movies_center/blob/master/movies_center.py)
-by creating a new object of Movie and adding it to `movies_list` variable
+by creating a new object of `Movie` class and adding it to `movies_list` variable
 
